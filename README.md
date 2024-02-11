@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Syahridho Arjuna Syahputra
-https://img.shields.io/badge/Hallo-Welcome-blue  
+
+<a href="https://img.shields.io/badge/Hallo-Welcome-blue"></a>
 
 🌱 I’m currently learning ...
 
