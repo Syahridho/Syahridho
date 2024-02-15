@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Syahridho Arjuna Syahputra
 
-<img src="https://img.shields.io/badge/Hello-Welcome-blue" /> <img src="https://img.shields.io/badge/javascript?logo=javascript" />  <img src="https://img.shields.io/badge/react?logo=react" />
+<img src="https://img.shields.io/badge/Hello-Welcome-blue" /> <img src="https://img.shields.io/badge/javascript?logo=javascript-blue" />  <img src="https://img.shields.io/badge/react?logo=react-blue" />
 
 🌱 I’m currently learning Next JS
 
