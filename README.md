@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Hello-Welcome-blue" /> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" /> <img src="https://img.shields.io/badge/React-grey?logo=react" />
 
-🌱 I’m currently learning Next JS
+🌱 I’m currently learning Next JS & TypeScript
 
 I am a Frontend Developer with a focus on creating aesthetic and responsive user interfaces. With skills in HTML, CSS, JavaScript, Tailwind and React JS, I have developed a variety of projects, ranging from business websites to interactive web applications.
 
