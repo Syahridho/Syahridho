@@ -1,10 +1,31 @@
-### Hi there 👋, I'm Syahridho Arjuna Syahputra
+# Hi there 👋, I'm Syahridho Arjuna Syahputra
 
-<img src="https://img.shields.io/badge/Hello-Welcome-blue" /> <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" /> <img src="https://img.shields.io/badge/React-grey?logo=react" />
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=black&labelColor=white)
 
 🌱 I’m currently learning Next JS & TypeScript
 
 I am a Frontend Developer with a focus on creating aesthetic and responsive user interfaces. With skills in HTML, CSS, JavaScript, Tailwind and React JS, I have developed a variety of projects, ranging from business websites to interactive web applications.
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Syahridho&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" height=165/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahridho&layout=compact" />
+</p>
+
+
+
+### Let's connect!
+<p>
+    <a href="https://syahridho.github.io" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/syahridho" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/syahridhoa_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <!--
 **Syahridho/Syahridho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
