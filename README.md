@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Syahridho Arjuna Syahputra
 
+<br/>
 
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=black)
@@ -10,8 +11,11 @@
 ![Static Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=next.js&logoColor=black&labelColor=white)
 
+<br/>
 
 I am a Frontend Developer with a focus on creating aesthetic and responsive user interfaces. With skills in HTML, CSS, JavaScript, Tailwind and React JS, I have developed a variety of projects, ranging from business websites to interactive web applications.
+
+<br/>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahridho&layout=compact" />
