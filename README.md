@@ -21,7 +21,7 @@ I am a Frontend Developer with a focus on creating aesthetic and responsive user
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahridho&layout=compact" />
 </p>
 
-<img src="https://raw.githubusercontent.com/syahridho/syahridho/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/syahridho/syahridho/output/snake.svg" alt="Snake animation" /> 
 
 
 ### Let's connect!
