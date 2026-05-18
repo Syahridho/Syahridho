@@ -9,7 +9,7 @@ various commercial and freelance projects. Highly passionate about pursuing a ca
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/gNgtEpVk_fUAAAAC/prabowo-wowo.gif"  />
+<!-- <img align="right" height="150" src="https://media1.tenor.com/m/gNgtEpVk_fUAAAAC/prabowo-wowo.gif"  /> -->
 
 ###
 
