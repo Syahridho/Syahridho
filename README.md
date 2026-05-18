@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! My name is Syahridho Arjuna Syahputra<br>I'm a Programmer from Indonesia</h2>
 
-<p>I am a Frontend Developer with a focus on creating aesthetic and responsive user interfaces. With skills in HTML, CSS, JavaScript, Tailwind and React JS, I have developed a variety of projects, ranging from business websites to interactive web applications.</p>
+<p>Computer Science graduate (GPA 3.89) who completed their studies in 3.5 years. Proven track record in software
+development through 3 semesters of intensive internship experience. Proficient in building web applications
+using Laravel and Next.js, with expertise in API integration, Object-Oriented Programming (OOP), and
+implementing unit testing to ensure high code quality and adherence to UI/UX principles. Experienced in managing
+various commercial and freelance projects. Highly passionate about pursuing a career in IT and Programmer.
+.</p>
 
 ###
 
